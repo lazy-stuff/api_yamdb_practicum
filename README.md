@@ -32,7 +32,7 @@ $ pip install -r requirements.txt
 $ python3 manage.py migrate
 ```
 
-Заполнить бвзу данных:
+Заполнить базу данных:
 
 ```
 $ python3 manage.py fill_tables
